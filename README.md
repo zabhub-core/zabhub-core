@@ -1,50 +1,50 @@
-<div align="center">
+<div align="right" dir="rtl">
 
 # ZabHub Global
-**Professional Repository Management & Engineering Standards**
+**المعايير الاحترافية لهندسة وإدارة المستودعات البرمجية**
 
 ---
 
-### Core Infrastructure
-ZabHub provides high-performance solutions engineered to eliminate technical friction and streamline professional development workflows.
+### البنية التحتية الأساسية
+تقدم ZabHub حلولاً عالية الأداء مصممة خصيصاً لإزالة العقبات التقنية وتبسيط تدفقات العمل في بيئات التطوير المهنية.
 
-[**Documentation**](https://zabhub.pages.dev/docs) • [**Support**](mailto:support@zabhub.pages.dev) • [**Corporate**](https://zabhub.pages.dev)
-
-</div>
+[**التوثيق التقني**](https://zabhub.pages.dev/docs) • [**الدعم الفني**](mailto:support@zabhub.pages.dev) • [**الموقع الرسمي**](https://zabhub.pages.dev)
 
 ---
 
-## Technical Resources
+## الموارد التقنية
 
-| Resource | Access Link |
+| المورد التقني | رابط الوصول |
 | :--- | :--- |
-| **Software Download** | [Get ZabHub Desktop](https://zabhub.pages.dev/download) |
-| **Official Tutorial** | [View Implementation Guide](https://zabhub.pages.dev/docs/zabhub-tutorial) |
-| **Developer Hub** | [Explore Projects](https://zabhub.pages.dev/projects) |
+| **تحميل البرنامج** | [الحصول على نسخة ZabHub Desktop](https://zabhub.pages.dev/download) |
+| **الدليل التعليمي** | [عرض دليل التنفيذ والاستخدام](https://zabhub.pages.dev/docs/zabhub-tutorial) |
+| **مركز المطورين** | [استكشاف المشاريع الحالية](https://zabhub.pages.dev/projects) |
 
 ---
 
-## Strategic Engagement
+## التفاعل الاستراتيجي
 
-ZabHub is dedicated to building robust software ecosystems. Our commitment to engineering excellence ensures a reliable environment for advanced repository management.
+تكرس ZabHub جهودها لبناء أنظمة برمجية متينة. إن التزامنا بتميز الهندسة يضمن بيئة موثوقة لإدارة المستودعات المتقدمة.
 
-* **Project Discovery:** Visit our central registry to explore featured deployments and software modules.
-* **Technical Inquiries:** For specific repository support, please utilize the dedicated Issues tracking system for formal resolution.
-* **Global Network:** We collaborate with developers worldwide to define the next generation of code management standards.
+* **اكتشاف المشاريع:** تفضل بزيارة سجلنا المركزي لاستكشاف أهم البرمجيات والوحدات المطورة.
+* **الاستفسارات التقنية:** لدعم مستودع معين، يرجى استخدام نظام تتبع المشكلات (Issues) لضمان المعالجة الرسمية والسرعة في الرد.
+* **الشبكة العالمية:** نحن نتعاون مع المطورين حول العالم لتحديد الجيل القادم من معايير إدارة الأكواد.
 
 ---
 
-## Governance and Compliance
+## الحوكمة والامتثال
 
-All projects within the ZabHub ecosystem adhere to a strict Professional Code of Conduct. This ensures a high-integrity, productive environment for all partners and developers.
+تلتزم جميع المشاريع ضمن منظومة ZabHub بقواعد سلوك مهنية صارمة، مما يضمن بيئة عمل عالية النزاهة والإنتاجية لجميع الشركاء والمطورين.
 
-> **Legal Notice:** Development and use of ZabHub tools are subject to our standard End User License Agreement (EULA). Detailed compliance information is available via our [Governance FAQ](https://zabhub.pages.dev/codeofconduct).
+> **إشعار قانوني:** يخضع تطوير واستخدام أدوات ZabHub لاتفاقية ترخيص المستخدم النهائي القياسية (EULA). تتوفر تفاصيل الامتثال عبر [الأسئلة الشائعة للحوكمة](https://zabhub.pages.dev/codeofconduct).
 
 ---
 
 <div align="center">
 
-**© 2026 ZabHub. All Rights Reserved.**
-*Precision Engineering for Modern Developers.*
+**© 2026 ZabHub. جميع الحقوق محفوظة.**
+*هندسة دقيقة للمطورين العصريين.*
+
+</div>
 
 </div>
