@@ -9,7 +9,7 @@
 ZabHub provides high-performance solutions engineered to eliminate technical friction and streamline professional development workflows.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/8ff22567-52a2-40f1-bf8d-7be4b8feca79" width="100%" style="max-height: 80px; object-fit: cover; border-radius: 4px;" autoplay loop muted playsinline>
+  <video src="https://github.com/user-attachments/assets/8ff22567-52a2-40f1-bf8d-7be4b8feca79" width="100%" height="100" autoplay loop muted playsinline>
   </video>
 </div>
 
