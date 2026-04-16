@@ -9,7 +9,6 @@
 
 ### Core Infrastructure
 ZabHub provides high-performance solutions engineered to eliminate technical friction and streamline professional development workflows.
-<vidoue
 [**Documentation**](https://zabhub.pages.dev/docs) • [**Support**](mailto:zabhub.digital@gmail.com) • [**Corporate**](https://zabhub.pages.dev)
 
 </div>
