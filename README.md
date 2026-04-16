@@ -8,10 +8,7 @@
 ### Core Infrastructure
 ZabHub provides high-performance solutions engineered to eliminate technical friction and streamline professional development workflows.
 
-<div align="center">
-  <video src="https://github.com/zabhub-core/zabhub/core-zabhub.mp4" width="100%" style="max-width:600px;" controls autoplay loop muted>
-  </video>
-</div>
+https://github.com/user-attachments/assets/7492c39d-2693-4701-8316-248744007963
 
 [**Documentation**](https://zabhub.pages.dev/docs) • [**Support**](mailto:zabhub.digital@gmail.com) • [**Corporate**](https://zabhub.pages.dev)
 
@@ -53,3 +50,6 @@ All projects within the ZabHub ecosystem adhere to a strict Professional Code of
 *Precision Engineering for Modern Developers.*
 
 </div>
+
+Uploading letters-zabhub.mp4…
+
