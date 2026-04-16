@@ -1,5 +1,5 @@
 <div align="center">
-<video></video>
+
 # ZabHub Global
 **Professional Repository Management & Engineering Standards**
 
