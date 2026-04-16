@@ -1,7 +1,5 @@
 <div align="center">
-<video controls width="100%" poster="thumbnail.jpg">
-  <source src="letters-zabhub.mp4" type="video/mp4">
-</video>   
+<video></video>
 # ZabHub Global
 **Professional Repository Management & Engineering Standards**
 
