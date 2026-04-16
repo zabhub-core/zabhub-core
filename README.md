@@ -8,9 +8,10 @@
 ### Core Infrastructure
 ZabHub provides high-performance solutions engineered to eliminate technical friction and streamline professional development workflows.
 
-<video src="letters-zabhub.mp4" width="600" controls autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/letters-zabhub.mp4" width="100%" style="max-width:600px;" controls autoplay loop muted>
+  </video>
+</div>
 
 [**Documentation**](https://zabhub.pages.dev/docs) • [**Support**](mailto:zabhub.digital@gmail.com) • [**Corporate**](https://zabhub.pages.dev)
 
